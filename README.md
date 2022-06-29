@@ -42,7 +42,7 @@ Thank u all <3
 
 SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
 
-BearnBull: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
+BearnBull: https://youtu.be/_oF1OCIpXkc
 
 
 
