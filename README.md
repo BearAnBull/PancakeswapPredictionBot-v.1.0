@@ -1,4 +1,4 @@
-# **🥞 PancakeSwap Prediction v3.0 new Update 🥞**
+# **🥞 PancakeSwap Prediction Bot v1.0  🥞**
 
 
 ![PancakeSwap-Logo-Big](logo.jpeg)
@@ -19,7 +19,7 @@
 This bot wins the majority of rounds on PancakeSwap based.
 This bot survived the beta and is now in the full version. Feel Free to contact us: support@assaempire.eu
 
-## NEWS *Update 4.0*
+## NEWS *Update Beta 2.0*
 
 our update is in planning. there's a lot coming your way.
 We know some bugs (Windows use)
@@ -30,9 +30,9 @@ We know some bugs (Windows use)
 
 ![Our Team](https://i.ibb.co/8jR3Fcv/logo.png)
 
-- AssaEmpire (Owner/Programmer)
-- SavannahCat (Github, Reddit, Youtube and Twitter Support)
-- XBronx (Programmer)
+- Bear 'n' Bull  (Owner/Programmer)
+- SavannahCat (Github, Youtube and Code Support)
+- StuckOnMe (Programmer)
 - K4L (Youtube Supporter)
 
 Thank u all <3
@@ -40,10 +40,9 @@ Thank u all <3
 
 ## **Our YT Videos** 
 
-K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
-
-
 SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
+
+BearnBull: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
 
 
 
@@ -54,7 +53,7 @@ https://nodejs.org/en/download/
 
 Then run command prompt or powershell
 
-- Type ``cd PancakeSwap Prediction v1.0.0`` (replace with your cloned/downloaded bot folder)
+- Type ``cd PancakeSwap Prediction v1.0`` (replace with your cloned/downloaded bot folder)
 - Type ``npm i``
 
 ## 🗺️ Usage  
@@ -132,7 +131,7 @@ ETH - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff
 
 BNB - 0x0A4A569cfA700Fc2A1d54974712716E537C169ff  
   
-Thank's to Empaticgame! spend: 0,8 BNB ❤️
+Thank's to SavannahCat! spend: 1,6 BNB to support us for our Tool ❤️
 
 
 
@@ -140,13 +139,8 @@ Thank's to Empaticgame! spend: 0,8 BNB ❤️
 
 ## 📧 If you need some help contact me
 
-***support@assaempire.eu***
+***support@bearnbull.eu***
 
 
+Bear 'n' Bull © Copyright 2022
 
-## Reddit Hater's 
- 
-![Hater's](https://cdn.arstechnica.net/wp-content/uploads/2019/03/reddit-games-silence.png)
-  
-  
-**We know about a few Reddit haters. We cannot rule out whether these are bots or unsuspecting would-be coders. The AssaEmpire Team will contact Github with the problems so that this no longer occurs. Thank you for reading and have fun :)**
